@@ -1,7 +1,7 @@
 # ScrollView-training
 
 ### ScrollViewの制約の手順
-- UIScrollViewの位置とサイズの制約
+- UIScrollViewの位置とサイズの制約を決める
 - UIScrollViewの上にContentsViewを乗せる
 - ContentsViewとContentLayoutGuideに制約をつける
 - ContentsViewの上下左右をContentLayoutGuideに合わせる(慣例的に)
